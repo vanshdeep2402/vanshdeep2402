@@ -5,26 +5,39 @@ I am a B.Tech student at **Gautam Buddha University** specializing in Artificial
 
 ---
 
-### 🛠️ What I'm working with:
-- **Languages:** Python, JavaScript (ES6+), SQL, C++
-- **Web Development:** React.js, Node.js, Express
-- **Databases:** MySQL
-- **AI/ML Interests:** Data Science, Neural Networks, Engineering Analytics
+### 🛠️ Tech Stack & Tools:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ---
 
-### 🏎️ Beyond the Code:
-When I'm not debugging, you'll find me:
-- 🏋️‍♂️ Tracking my progress in the gym (Progressive Overload enthusiast)
-- 🏎️ Following **Formula 1** and analyzing LH44's race strategy
-- 🏀 Practicing fundamental drills on the basketball court
+### 🏎️ Formula 1 & Engineering
+> "If you no longer go for a gap that exists, you are no longer a racing driver." — *Ayrton Senna*
+
+I apply the same precision to my neural networks that **Lewis Hamilton** applies to a qualifying lap. 🏁
+- 📊 Analyzing race telemetry using Python.
+- 🛠️ Interested in Aerodynamics and AI-driven race strategy.
 
 ---
 
-### 📈 GitHub Stats
-![Vanshdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanshdeep2402&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshdeep2402&layout=compact&theme=tokyonight)
+### 🏋️‍♂️ Fitness & Consistency
+- **Current Split:** Push, Pull, Legs (PPL)
+- **Focus:** Progressive Overload & Data-Driven Gains
+- **Daily Goal:** 10,000+ Steps 🚶‍♂️
 
 ---
 
-📫 **How to reach me:** [vanshdeepkushwaha@gmail.com]
+### 📈 GitHub Ecosystem
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=vanshdeep2402&show_icons=true&theme=tokyonight" alt="Vanshdeep's stats" />
+</p>
+
+---
+
+### 🤝 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINK_HERE)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
