@@ -16,7 +16,7 @@ I am a B.Tech student at **Gautam Buddha University** specializing in Artificial
 ---
 
 ### 🏎️ Formula 1 & Engineering
-> "If you no longer go for a gap that exists, you are no longer a racing driver." — *Ayrton Senna*
+> "I don’t aspire to be like other drivers—I aspire to be unique in my own way." — Lewis Hamilton
 
 I apply the same precision to my neural networks that **Lewis Hamilton** applies to a qualifying lap. 🏁
 - 📊 Analyzing race telemetry using Python.
