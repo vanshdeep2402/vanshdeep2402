@@ -15,8 +15,12 @@ I am a B.Tech student at **Gautam Buddha University** specializing in Artificial
 
 ---
 
-### 🏎️ Formula 1 & Engineering
-> "I don’t aspire to be like other drivers—I aspire to be unique in my own way." — Lewis Hamilton
+---
+
+### 🏎️ Driver's Briefing: Quote of the Day
+[!["F1 Quote"](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=I%20don’t%20aspire%20to%20be%20like%20other%20drivers—I%20aspire%20to%20be%20unique%20in%20my%20own%20way.&author=Lewis%20Hamilton)](https://github.com/vanshdeep2402)
+
+---
 
 I apply the same precision to my neural networks that **Lewis Hamilton** applies to a qualifying lap. 🏁
 - 📊 Analyzing race telemetry using Python.
